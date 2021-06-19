@@ -1,4 +1,4 @@
-# fstrms landing website
+# FstRms landing website
 
 Here resides the source code for my landing website, running on flask.
 
@@ -20,5 +20,4 @@ Here resides the source code for my landing website, running on flask.
 
 
 ## Preview
-#### ![env file](preview-env.png)
-#### ![email](preview-email.png)
+#### ![awesome](preview-site.png)
